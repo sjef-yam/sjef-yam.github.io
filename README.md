@@ -2,5 +2,5 @@
 Test repository for YAM virtual museum.
 
 
-<a href="root/yam-virtual-museum.html">Launch virtual museum!</a>
+<a href="root/yam_virtual_museum.html">Launch virtual museum!</a>
 
