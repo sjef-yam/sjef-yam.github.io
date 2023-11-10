@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/smooth_bunny.obj-0a01414df02f7dfd7f1b80180c9b0d0b.mesh"
+
+[deps]
+
+files=[ "res://.import/smooth_bunny.obj-0a01414df02f7dfd7f1b80180c9b0d0b.mesh" ]
+
+source_file="res://models/smooth_bunny.obj"
+dest_files=[ "res://.import/smooth_bunny.obj-0a01414df02f7dfd7f1b80180c9b0d0b.mesh", "res://.import/smooth_bunny.obj-0a01414df02f7dfd7f1b80180c9b0d0b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
